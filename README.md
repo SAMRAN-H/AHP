@@ -6,7 +6,7 @@
 В PyCharm вы должны добавить library root. через File - Seeting дальше Projet:pythonProject and Python Interpreter.
 ![capture-20201115-225718](https://user-images.githubusercontent.com/73785628/99192742-68b1ea00-2796-11eb-8bcc-8a7cc0347efc.png)
 
-скопируйте код по ссылке : 
+# скопируйте код по ссылке :  https://github.com/SAMRAN-H/AHP/blob/main/AHP.ru
 # ВЫПОЛНЕНИЕ ОСНОВНЫХ ФУНКЦИЙ
 1) Пользователь вводит количество критериев
 2) Пользователю предлагается обозначить значимость одних критериев относительно других
